@@ -1,21 +1,21 @@
 # cjh1<html>
  <meta http-equiv="Content-Type" content="text/html; charset=GBK" />
 <head>
-<title>易水寒的个人简历</title>
+<title>陈金杭的个人简历</title>
 </head>
 
 <body bgcolor="#CCFFCC" lang=ZH-CN link=blue vlink=blue style='tab-interval:21.0pt'topmargin=4>
-<center><h1>易水寒的个人简历(网页版)</h1></center>
+<center><h1>陈金杭的个人简历(网页版)</h1></center>
 <hr size=6 color=orange width=60% align="center">
-<center><pre>制作人：软件学院软开0835班  易水寒  学号：0825033504  编号：39</pre></center>
- <center><pre>（作业代号：1-39-0825033504-易水寒）</pre></center>
+<center><pre>制作人：云计算192班  易水寒  学号：1931607025  编号：25</pre></center>
+ <center><pre>（作业代号：1-25-1931607025-陈金杭）</pre></center>
 <table cellspacing="0.9" border="1" align=center style='font-size:10.0pt'box="3">
-  <th bgcolor="#99CC33" colspan="7" style='width=520pt;text-align:center;line-height:35pt;color:#CC0000' align="center"><font size="+4"><i><big>易水寒的个人简历</big></i></font></th>
+  <th bgcolor="#99CC33" colspan="7" style='width=520pt;text-align:center;line-height:35pt;color:#CC0000' align="center"><font size="+4"><i><big>陈金杭的个人简历</big></i></font></th>
   <tr>
     <th bgcolor=#FDEBDF style='width=55pt;height=25pt'>姓名：</th>
-    <td style='width=55pt'>易水寒</td>
+    <td style='width=55pt'>陈金杭</td>
     <th bgcolor=#FDEBDF style='width=50pt'>出生日期:</th>
-    <td style='width=55pt'>1989-10-02</td>
+    <td style='width=55pt'>2001-12-01</td>
     <th bgcolor=#FDEBDF style='width=50pt'>姓别：</th>
     <td style='width=40pt'>男</td>
     <th rowspan="6"><img src="zoukang.jpg"   style='width=180pt;height=130pt'></th>
@@ -24,7 +24,7 @@
     <th bgcolor=#FDEBDF style=' height=25pt'>身份证：</th>
     <td>430421198910029495</td>
     <th bgcolor=#FDEBDF>户口：</th>
-    <td>湖南·衡阳</td>
+    <td>重庆</td>
     <th bgcolor=#FDEBDF>婚姻状况：</th>
     <td>未婚</td>
   </tr>
@@ -47,11 +47,11 @@
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style='height=25pt'>目前所在地：</th>
-    <td >湖南省长沙市</td>
+    <td >重庆市</td>
     <th bgcolor=#FDEBDF style='height=25pt'>通讯地址：</th>
-    <td>湖南省长沙市（410000）</td>
+    <td>重庆市（410000）</td>
     <th bgcolor=#FDEBDF>工作时间：</th>
-    <td>2010年</td>
+    <td>2021年</td>
   </tr>
   <tr> </tr>
 
@@ -169,12 +169,11 @@
 <br>
 <br>
  <table bgcolor="#0066FF" width="100%" ><th ><font color="#FF6600" size="+2">
- 长沙民政职业技术学院软件学院&nbsp;&nbsp;<br>
- 软件开发0835班&nbsp;易水寒&nbsp;学号：0825033504&nbsp;编号：39<br>
+ 重庆工程职业技术学院&nbsp;&nbsp;<br>
+ 云计算192班&nbsp;陈金杭&nbsp;学号：1931607025&nbsp;编号：25<br>
  联系我&nbsp;QQ：461228344&nbsp;E-mail：<a href="mailto:461228344@qq.com?subject=读者回函">461228344@qq.com</a><br>
  版权所有&nbsp;&nbsp;&nbsp;&nbsp;侵权不究</font></th>
  </table>
  
 </body>
 </html>
-
